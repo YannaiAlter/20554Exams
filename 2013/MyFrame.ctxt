@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MyFrame
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyFrame\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y
+comment1.target=MyFrame(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
